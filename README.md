@@ -1,12 +1,10 @@
-<p style="text-align: center;">
-  Este es un texto centrado con HTML
-</p>
-<div style="max-width: 600px; margin: auto;">
-  <p>
-    Este es un texto con un ancho limitado, parecido a un documento de Word.
-    El texto no se expandirá por toda la pantalla.
-  </p>
+<div align="center">
+
+<!-- TODO EL TEXTO QUE QUIERAS AQUÍ -->
+
 </div>
+
+<div align="center" style="max-width: 800px; margin: auto;">
 
 🌟 ¡Hola, un gusto y espero poder trabajar contigo, aqui está mi tarjeta de presentacion! 🌟
 
