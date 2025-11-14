@@ -4,7 +4,7 @@
 
 </div>
 
-<div align="center" style="max-width: 800px; margin: auto;">
+<div align="center" style="max-width: 600px; margin: auto;">
 
 <div align="center" style="
   border: 10px solid #444;
