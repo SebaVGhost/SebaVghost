@@ -40,6 +40,6 @@ HTML / CSS 🎨
 ¿Ideas? ¿Proyectos? ¿Memes de programadores?
 Estoy abierto a todas las conversaciones:
 
-📬📬 Tu correo 📬📬
+📬 Mi correo 📬
 
 Sebavegaperez@gmail.com
