@@ -8,7 +8,7 @@
 
 🌟 ¡Hola, un gusto y espero poder trabajar contigo, aqui está mi tarjeta de presentacion! 🌟
 
-¡Hey! Soy Sebastián, una persona dinámica, curiosa y con una energía que no cabe en un archivo .md.
+Mi nombre es Sebastián, una persona dinámica, curiosa y con una energía que no cabe en un archivo .md.
 Me encanta aprender todo tipo de cosas, desde los fundamentos más básicos hasta los conceptos 
 más complejos… ¡y últimamente la Inteligencia Artificial me tiene completamente impulsado! 🤖⚡
 
