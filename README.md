@@ -1,3 +1,7 @@
+<p style="text-align: center;">
+  Este es un texto centrado con HTML
+</p>
+
 🌟 ¡Hola, un gusto y espero poder trabajar contigo, aqui está mi tarjeta de presentacion! 🌟
 
 ¡Hey! Soy Sebastián, una persona dinámica, curiosa y con una energía que no cabe en un archivo .md.
