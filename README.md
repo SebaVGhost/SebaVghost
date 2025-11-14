@@ -13,13 +13,13 @@
   max-width: 800px;
   margin: auto;
 ">
-  <h2>👋 Hola, soy SebaVGhost</h2>
+  <h2>👋 Hola, soy Sebastian Vega </h2>
   <p>Full Stack | IA Enthusiast</p>
 </div>
 
 🌟 ¡Hola, un gusto y espero poder trabajar contigo, aqui está mi tarjeta de presentacion! 🌟
 
-Mi nombre es Sebastián, una persona dinámica, curiosa y con una energía que no cabe en un archivo .md.
+Soy una persona dinámica, curiosa y con una energía que no cabe en un archivo .md.
 Me encanta aprender todo tipo de cosas, desde los fundamentos más básicos hasta los conceptos 
 más complejos… ¡y últimamente la Inteligencia Artificial me tiene completamente impulsado! 🤖⚡
 
