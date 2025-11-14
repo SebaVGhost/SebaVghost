@@ -29,11 +29,11 @@ Aquí se mezclan:
 
 🧰 Cuento con herramientas y conocimientos relacionados a:
 
-  * JavaScript ⚡
+JavaScript ⚡
 
-  * Python 🐍
+Python 🐍
 
-  * HTML / CSS 🎨
+HTML / CSS 🎨
 
  Contacto & Redes
 
