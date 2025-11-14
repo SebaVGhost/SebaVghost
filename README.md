@@ -6,9 +6,16 @@
 
 <div align="center" style="max-width: 800px; margin: auto;">
 
-<p align="center">
-  <img src="TU_BANNER.png" width="100%">
-</p>
+<div align="center" style="
+  border: 2px solid #444;
+  padding: 20px;
+  border-radius: 15px;
+  max-width: 800px;
+  margin: auto;
+">
+  <h2>👋 Hola, soy SebaVGhost</h2>
+  <p>Animador | Full Stack | IA Enthusiast</p>
+</div>
 
 🌟 ¡Hola, un gusto y espero poder trabajar contigo, aqui está mi tarjeta de presentacion! 🌟
 
