@@ -14,7 +14,7 @@
   margin: auto;
 ">
   <h2>👋 Hola, soy SebaVGhost</h2>
-  <p>Animador | Full Stack | IA Enthusiast</p>
+  <p>Full Stack | IA Enthusiast</p>
 </div>
 
 🌟 ¡Hola, un gusto y espero poder trabajar contigo, aqui está mi tarjeta de presentacion! 🌟
