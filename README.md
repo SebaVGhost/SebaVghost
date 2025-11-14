@@ -13,7 +13,7 @@
   max-width: 800px;
   margin: auto;
 ">
-  <h2>👋 Hola, soy Sebastian Vega </h2>
+  <h2>👋 Bienvenido </h2>
   <p>Full Stack | IA Enthusiast</p>
 </div>
 
