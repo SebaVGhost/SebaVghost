@@ -1,16 +1,37 @@
-## Hi there 👋
+🌟 ¡Hola, un gusto y espero poder trabajar contigo, aqui está mi tarjeta de presentacion! 🌟
 
-<!--
-**SebaVGhost/SebaVghost** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+¡Hey! Soy Sebastián, una persona dinámica, curiosa y con una energía que no cabe en un archivo .md.
+Me encanta aprender todo tipo de cosas, desde los fundamentos más básicos hasta los conceptos 
+más complejos… ¡y últimamente la Inteligencia Artificial me tiene completamente impulsado! 🤖⚡
 
-Here are some ideas to get you started:
+🎬 ¿Qué vas a encontrar aquí?
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Mi GitHub es un espacio en construcción, pero con altas expectativas.
+Aquí se mezclan:
+
+🎯 Proyectos de aprendizaje
+
+💻 Experimentos varios
+
+🧠 Ideas a del dia a dia
+
+⚙️ Cosas que fui probando mientras descubro cómo funciona este maravilloso mundo
+
+🤖 Exploraciones relacionadas con IA
+
+🧰 Cuento con herramientas y conocimientos relacionados a:
+
+  * JavaScript ⚡
+
+  * Python 🐍
+
+  * HTML / CSS 🎨
+
+ Contacto & Redes
+
+¿Ideas? ¿Proyectos? ¿Memes de programadores?
+Estoy abierto a todas las conversaciones:
+
+📬📬 Tu correo 📬📬
+
+Sebavegaperez@gmail.com
