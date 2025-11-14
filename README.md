@@ -7,9 +7,9 @@
 <div align="center" style="max-width: 800px; margin: auto;">
 
 <div align="center" style="
-  border: 2px solid #444;
+  border: 10px solid #444;
   padding: 20px;
-  border-radius: 15px;
+  border-radius: 120px;
   max-width: 800px;
   margin: auto;
 ">
