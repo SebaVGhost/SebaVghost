@@ -21,7 +21,7 @@ Aquí se mezclan:
 
 💻 Experimentos varios
 
-🧠 Ideas a del dia a dia
+🧠 Ideas del dia a dia
 
 ⚙️ Cosas que fui probando mientras descubro cómo funciona este maravilloso mundo
 
